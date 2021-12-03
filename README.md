@@ -1,4 +1,3 @@
-
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <h2>👋 Hi, I’m<b> Roshan Bajgain</b></h2>
@@ -7,13 +6,13 @@
 - 👀 I’m interested in developing software applications to solve real world problems
 - 🌱 I’m constantly learning and unlearning software tools 
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
-- 🎵: My hobbies is to travell.
+- 🎵: My hobbies is to play cricket and to travel
 - 📫 You can reach me via mail: roshan.bazgain@gmail.com
 </br>
 
-[![roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan-bajgain&show_icons=true&theme=tokyonight)](https://github.com/roshan-bajgain/github-readme-stats)
+[![roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan-bajgain&show_icons=true&theme=tokyonight)](https://github.com/roshan-bajgain/github-readme-status)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-bajgain&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/roshan-bajgain/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-bajgain&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/roshan-bajgain/github-readme-status) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnselemOdims&repo=Portfolio&theme=tokyonight)](https://github.com/roshan-bajgain/roshan-bajgain.github.io)
 
