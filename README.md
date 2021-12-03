@@ -33,12 +33,3 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
     </br>
-    
-# Contributions
-- 🐛 Opened a bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4836)
-- 🐛 Opened another bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4830)
-
-<!---
-AnselemOdims/AnselemOdims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
