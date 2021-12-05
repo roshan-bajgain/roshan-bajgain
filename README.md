@@ -4,9 +4,9 @@
 
 - 💻: I am currently enrolled in Microverse 
 - 👀 I’m interested in developing software applications to solve real world problems
-- 🌱 I’m constantly learning and unlearning software tools 
+- 🌱 I’m constantly learning new software tools and technology 
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
-- 🎵: My hobbies is to play cricket and to travel
+- 🎵: My hobbies are hiking and photography
 - 📫 You can reach me via mail: roshan.bazgain@gmail.com
 </br>
 
