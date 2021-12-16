@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+![giphy](https://user-images.githubusercontent.com/50941074/145535504-e7865f42-1c16-4fe5-a154-ce108bab0514.gif)
 
 <h2>👋 Hi, I’m<b> Roshan Bajgain</b></h2>
 
