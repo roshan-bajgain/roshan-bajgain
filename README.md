@@ -30,3 +30,4 @@
     </p>
     </br>  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshan-bajgain)](https://git.io/streak-stats)    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roshan-bajgain&theme=elegant)](https://git.io/streak-stats)
