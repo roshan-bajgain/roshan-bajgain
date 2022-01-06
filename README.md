@@ -30,5 +30,5 @@
     </p>
     </br>
 ## Github Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Roshan Bajgain&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshan-bajgain&theme=tokyonight)](https://git.io/streak-stats)
 </br>    
