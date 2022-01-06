@@ -29,4 +29,6 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     </p>
     </br>  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshan-bajgain)](https://git.io/streak-stats)
+ ## Github Streak Stats   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roshan-bajgain&theme=algolia)](https://git.io/streak-stats)
+</br>
