@@ -8,7 +8,7 @@
 - 🌱 I’m constantly learning new software tools and technology 
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
 - 🎵: My hobbies are hiking and photography
-- 📫 You can reach me via mail: [Email](roshan.bazgain@gmail.com) 
+- 📫 You can reach me via mail: roshan.bazgain@gmail.com
 </br>
 
 [![roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan-bajgain&show_icons=true&theme=tokyonight)](https://github.com/roshan-bajgain/github-readme-status)
