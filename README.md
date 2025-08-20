@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-bajgain&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/roshan-bajgain/github-readme-status) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnselemOdims&repo=Portfolio&theme=tokyonight)](https://calm-parfait-f508cb.netlify.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roshan-bajgain&repo=Portfolio&theme=tokyonight)](https://calm-parfait-f508cb.netlify.app/)
 
 # Technologies & Tools
 
